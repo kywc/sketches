@@ -1,3 +1,8 @@
+# This fork
+
+Debugging issue where inspecting Sketches::Cache after saving a sketch seems to cause deletion of the associated file.
+Afterwards may try to add some features
+
 # Sketches
 
 * [github.com/postmodern/sketches/](http://github.com/postmodern/sketches/)

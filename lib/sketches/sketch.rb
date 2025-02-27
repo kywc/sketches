@@ -183,7 +183,7 @@ module Sketches
       str << "\n\n"
 
       if @path && File.file?(@path)
-        File.open(@path) do |file|
+        File.open(@path, "r") do |file|
           unless verbose
             4.times do
               if file.eof?

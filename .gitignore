@@ -1,4 +1,5 @@
 doc
+.jj
 pkg
 web/*
 .DS_Store
