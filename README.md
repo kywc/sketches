@@ -1,6 +1,7 @@
-# This fork
+## This fork
 
-Debugging issue where inspecting Sketches::Cache after saving a sketch seems to cause deletion of the associated file.
+Debugging issue where ~~inspecting Sketches::Cache after saving a sketch seems to cause deletion of the associated file~~
+previous is not a necessary condition, seems to be a thread/mutex issue.
 Afterwards may try to add some features
 
 # Sketches
